@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TCCart</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_manager_screen">ManagerScreen</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="title_activity_add_customer">AddCustomer</string>
+    <string name="title_activity_manager_menu">ManagerMenu</string>
+    <string name="title_activity_edit_customer_information">Edit Customer Information</string>
+    <string name="title_activity_order">Order</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="zero">0.00</string>
+    <string name="dollarSign">$</string>
+    <string name="title_activity_existing_customer">Existing Customer</string>
+    <string name="title_activity_transaction_history">Transaction History</string>
+    <string name="title_activity_custom_row_view">Custom Row View</string>
+</resources>
